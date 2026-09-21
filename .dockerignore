@@ -1,0 +1,10 @@
+node_modules/
+bin/*.exe
+downloads/*
+!downloads/.gitkeep
+.git/
+.env*
+npm-debug.log*
+yarn-debug.log*
+*.part
+*.ytdl
